@@ -1,4 +1,4 @@
-# 
+# Get the ultimate OBS Studio for macOS template with OBS Studio for macOS ultimate Template: normalization & shortcut-customization. Featuring normalization and
 
 
 
